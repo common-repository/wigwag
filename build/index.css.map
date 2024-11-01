@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;EACI;EACA;EACA;AACJ;;AAEA;EACI;EACA;EACA;AACJ,C","sources":["webpack://wigwag/./src/frontend/WigWagLabel.module.scss"],"sourcesContent":[".wigwag-label {\n    display: flex;\n    flex-direction: row;\n    gap: 1rem;\n}\n\n.icons {\n    display: flex;\n    flex-direction: row;\n    gap: 0.5rem;\n}\n"],"names":[],"sourceRoot":""}
